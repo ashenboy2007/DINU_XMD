@@ -44,7 +44,7 @@ cmd({
 2️⃣ *Document Type*
 3️⃣ *Voice Note*
  
-> Powered by ᴅᴀʀᴋ-ᴀꜱʜᴇɴ-xᴍᴅ`;
+> Powered by 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳`;
 
         const sentMsg = await conn.sendMessage(from, {
             image: { url: result.thumbnail },
@@ -152,7 +152,7 @@ cmd({
 🔹 2.3 480p (Document)
 🔹 2.4 720p (Document)
 
-> Powered by ᴅᴀʀᴋ-ᴀꜱʜᴇɴ-xᴍᴅ
+> Powered by 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳
         `;
 
         const sentMsg = await conn.sendMessage(from, {
