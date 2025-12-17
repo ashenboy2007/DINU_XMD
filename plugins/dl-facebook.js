@@ -38,7 +38,7 @@ cmd({
 2️⃣ *HD Quality*🔋
 3️⃣ *Audio (MP3)*🎶
 
-> Powered by ᴅᴀʀᴋ-ᴀꜱʜᴇɴ-xᴍᴅ`;
+> Powered by 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳`;
 
     const sentMsg = await conn.sendMessage(from, {
       image: { url: thumbnail },
@@ -144,7 +144,7 @@ cmd({
 3️⃣  *Original Quality* 📼
 4️⃣  *Audio (MP3)*🎶
 
-> Powered by ᴅᴀʀᴋ-ᴀꜱʜᴇɴ-xᴍᴅ`;
+> Powered by 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳`;
 
     // Send preview (if thumbnail unavailable, fallback to caption only)
     const sentMsg = await conn.sendMessage(from, {
