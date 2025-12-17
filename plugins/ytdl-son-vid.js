@@ -44,7 +44,7 @@ cmd({
 2️⃣ *Document Type*
 3️⃣ *Voice Note*
  
-> Powered by 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳`;
+> Powered by ᴅᴀʀᴋ-ᴀꜱʜᴇɴ-xᴍᴅ`;
 
         const sentMsg = await conn.sendMessage(from, {
             image: { url: result.thumbnail },
@@ -152,7 +152,7 @@ cmd({
 🔹 2.3 480p (Document)
 🔹 2.4 720p (Document)
 
-> Powered by 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳
+> Powered by ᴅᴀʀᴋ-ᴀꜱʜᴇɴ-xᴍᴅ
         `;
 
         const sentMsg = await conn.sendMessage(from, {
