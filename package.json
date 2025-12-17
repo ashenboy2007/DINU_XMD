@@ -1,12 +1,12 @@
 {
-  "name": "WHITE-DINU-XMD",
+  "name": "DARK-KNIGHT-XMD",
   "version": "2.0.0",
-  "description": "A WhatsApp Bot Created By WHITE-DINU",
+  "description": "A WhatsApp Bot Created By DARK-KNIGHT",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name WHITE-DINU-XMD",
-    "stop": "pm2 stop WHITE-DINU-XMD",
-    "restart": "pm2 restart WHITE-DINU-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name DARK-KNIGHT-XMD",
+    "stop": "pm2 stop DARK-KNIGHT-XMD",
+    "restart": "pm2 restart DARK-KNIGHT-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.21",
