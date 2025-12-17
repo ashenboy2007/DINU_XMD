@@ -47,7 +47,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363400240662312@newsletter',
-          newsletterName: '『『 ᴅᴀʀᴋ-ᴀꜱʜᴇɴ-xᴍᴅ 』』',
+          newsletterName: '『『 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳 』』',
           serverMessageId: 143
         }
       }
@@ -68,7 +68,7 @@ cmd({
       `📅 *Lᴀsᴛ ᴜᴘᴅᴀᴛᴇ*: ${lastup}\n` +
       `📦 *Pᴀᴄᴋᴀɢᴇ*: ${package}\n` +
       `📏 *Sɪᴢᴇ*: ${size}\n\n` +
-      `> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ-ᴀꜱʜᴇɴ-xᴍᴅ `;
+      `> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ  𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳`;
 
     // Send the APK file as a document
     await conn.sendMessage(from, {
@@ -82,7 +82,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363400240662312@newsletter',
-          newsletterName: '『 ᴅᴀʀᴋ-ᴀꜱʜᴇɴ-xᴍᴅ 』 ',
+          newsletterName: '『 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳 』 ',
           serverMessageId: 143
         }
       }
