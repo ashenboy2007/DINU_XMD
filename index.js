@@ -113,24 +113,24 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*✨ Hello, 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳 Legend! ✨*
+  let up = `*✨ Hello, 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳 Legend! ✨*
 
-╭─〔 *🤖 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳* 〕  
+╭─〔 *🤖 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳* 〕  
 ├─▸ *Ultra Super Fast Powerfull ⚠️* 
-├─▸ *Powered By 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳*  
+├─▸ *Powered By 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳*  
 ╰─➤ *Your Smart WhatsApp Bot Is Ready To Use 🍁!*
 
 *❤️ Thank you for Choosing 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳!*
 
 ╭──〔 *🔗 Information* 〕  
 ├─ *📢 Join Channel:*  
-│   https://whatsapp.com/channel/0029VbAM4eo3AzNQZ1WleW3e
+│   https://whatsapp.com/channel/0029VbCcH3rAu3aVRuBThO0I
 ├─ *⭐ Join Group:*  
-│   https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5
+│   https://chat.whatsapp.com/D8axgJxP2Po4pFQLBapw7F
 ╰─ 🛠️ *Prefix:* \`${prefix}\`
 
-> _© Made By 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃_`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/brlkte.jpg` }, caption: up })
+> _© Made By 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽_`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/wf32ov.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -802,7 +802,7 @@ if (isBanned) return; // Ignore banned users completely
   }
   
   app.get("/", (req, res) => {
-  res.send("DARK-KNIGHT-XMD IS  STARTED ✅");
+  res.send("𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳 IS  STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
