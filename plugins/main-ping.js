@@ -1,4 +1,4 @@
-const config = require('../config');
+econst config = require('../config');
 const { cmd, commands } = require('../command');
 
 cmd({
@@ -129,7 +129,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363400240662312@newsletter',
-                    newsletterName: "𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳",
+                    newsletterName: "𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳",
                     serverMessageId: 143
                 }
             }
