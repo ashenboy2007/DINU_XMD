@@ -4,7 +4,7 @@ const axios = require('axios');
 
 
 cmd({
-    pattern: "song",
+    pattern: "song2",
     react: "🎵",
     desc: "Download YouTube MP3",
     category: "download",
@@ -104,7 +104,7 @@ cmd({
 
 
 cmd({
-    pattern: "video",
+    pattern: "video2",
     react: "🎬",
     desc: "Download YouTube MP4",
     category: "download",
