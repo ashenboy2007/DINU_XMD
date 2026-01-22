@@ -120,7 +120,7 @@ const port = process.env.PORT || 9090;
 ├─▸ *Powered By 𝙳𝙰𝚁𝙺-𝙰𝚂𝙷𝙴𝙽-𝚇𝙼𝙳*  
 ╰─➤ *Your Smart WhatsApp Bot Is Ready To Use 🍁!*
 
-*❤️ Thank you for Choosing 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳!*
+*❤️ Thank you for Choosing 𝙳𝙰𝚁𝙺-ASHEN-𝚇𝙼𝙳!*
 
 ╭──〔 *🔗 Information* 〕  
 ├─ *📢 Join Channel:*  
