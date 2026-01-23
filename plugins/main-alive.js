@@ -13,17 +13,17 @@ cmd({
 async (conn, mek, m, { from, sender, reply }) => {
     try {
         const status = `
-╭──〔 🤖 *ALIVE STATUS* 〕──◉
+╭──〔 🤖 *💞𝙰𝚕𝚒𝚟𝚎 𝚂𝚃𝙰𝚃𝚄𝚂💥* 〕──◉
 │
-│ ✨ _Bot is Active & Online!_
+│ ✨ _𝐵𝑜𝑡 𝐼𝑠 𝐴𝑐𝑡𝑖𝑣𝑒 & 𝑂𝑛𝑙𝑖𝑛𝑒.🫦☠️!_
 │
-│ 🧠 *Owner:* ${config.OWNER_NAME}
-│ ⚡ *Version:* 2.0.0
-│ 📝 *Prefix:* [${config.PREFIX}]
-│ 📳 *Mode:* [${config.MODE}]
-│ 💾 *RAM:* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
-│ 🖥️ *Host:* ${os.hostname()}
-│ ⌛ *Uptime:* ${runtime(process.uptime())}
+│  👑 𝐎𝐖𝐍𝐄𝐑: ${config.OWNER_NAME}
+│  💫 𝐕𝐄𝐑𝐒𝐈𝐎𝐍: 2.0.0
+│ 🗯️ 𝐏𝐑𝐄𝐅𝐈𝐗: [${config.PREFIX}]
+│ 🌬️ 𝐌𝐎𝐃𝐄: [${config.MODE}]
+│ 💽 𝐑𝐀𝐌: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
+│ 🌬️ 𝐇𝐎𝐒𝐓: ${os.hostname()}
+│ ⏲️𝐔𝐏𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}
 ╰───────────────◉
 > ${config.DESCRIPTION}`;
 
