@@ -55,9 +55,9 @@ cmd({
     const githubRepo = 'https://github.com/DARK-KNIGHT/DARK-KNIGHT-XMD';
 
     // Check update status
-    let updateMessage = `✅ Your 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳 bot is up-to-date!`;
+    let updateMessage = `✅ Your 𝙳𝙰𝚁𝙺-ᴀꜱʜᴇɴ-𝚇𝙼𝙳 bot is up-to-date!`;
     if (localVersion !== latestVersion) {
-      updateMessage = `🚀 Your 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃-𝚇𝙼𝙳 bot is outdated!
+      updateMessage = `🚀 Your 𝙳𝙰𝚁𝙺-ᴀꜱʜᴇɴ-𝚇𝙼𝙳 bot is outdated!
 🔹 *Current Version:* ${localVersion}
 🔹 *Latest Version:* ${latestVersion}
 
